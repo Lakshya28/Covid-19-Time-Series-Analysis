@@ -11,3 +11,6 @@ Common signs of infection include respiratory symptoms, fever, cough, shortness 
 Standard recommendations to prevent infection spread include regular hand washing, covering mouth and nose when coughing and sneezing, thoroughly cooking meat and eggs. Avoid close contact with anyone showing symptoms of respiratory illness such as coughing and sneezing.
 
 Resources : WHO
+
+##### Dataset
+Dataset from kaggle : [here](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) 
