@@ -1,6 +1,6 @@
 # Covid-19-Time-Series-Analysis
 <p align="center">
-  <img width="800" height="400" src="https://www.fda.gov/files/covid19-1600x900.jpg">
+  <img width="800" height="450" src="https://www.fda.gov/files/covid19-1600x900.jpg">
 </p>
 Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV). A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans.
 
