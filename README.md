@@ -22,5 +22,21 @@ Dataset from kaggle : [here](https://www.kaggle.com/sudalairajkumar/novel-corona
 * Rajasthan
 * Madhya Pradesh
 <p align="center">
-  <img width="600" height="600" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Map.png">
+  <img width="650" height="600" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Map.png">
 </p>
+
+#### Total Cases
+<p align="center">
+  <img width="450" height="700" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Total%20Cases.png">
+</p>
+
+#### Total Death
+<p align="center">
+  <img width="450" height="700" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Total%20Death.png">
+</p>
+
+#### Total Cases
+<p align="center">
+  <img width="450" height="700" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Total%20Cured.png">
+</p>
+
