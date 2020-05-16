@@ -14,3 +14,13 @@ Resources : WHO
 
 ##### Dataset
 Dataset from kaggle : [here](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) 
+
+## Most Affected States
+* Maharastra
+* Delhi
+* Gujrat
+* Rajasthan
+* Madhya Pradesh
+<p align="center">
+  <img width="600" height="600" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Map.png">
+</p>
