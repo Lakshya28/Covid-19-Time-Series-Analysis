@@ -25,18 +25,18 @@ Dataset from kaggle : [here](https://www.kaggle.com/sudalairajkumar/novel-corona
   <img width="650" height="600" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Map.png">
 </p>
 
-#### Total Cases
+### Total Confirmed Cases
 <p align="center">
-  <img width="450" height="700" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Total%20Cases.png">
+  <img width="630" height="900" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Total%20Cases.png">
 </p>
 
-#### Total Death
+### Total Death Cases
 <p align="center">
-  <img width="450" height="700" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Total%20Death.png">
+  <img width="630" height="900" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Total%20Death.png">
 </p>
 
-#### Total Cases
+### Total Cured Cases
 <p align="center">
-  <img width="450" height="700" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Total%20Cured.png">
+  <img width="630" height="900" src="https://github.com/Lakshya28/Covid-19-Time-Series-Analysis/blob/master/Images/Total%20Cured.png">
 </p>
 
